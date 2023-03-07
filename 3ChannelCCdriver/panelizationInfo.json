@@ -1,0 +1,23 @@
+{
+    "layout": {
+        "alternation": "cols",
+        "hspace": "2.5mm",
+        "vspace": "2.5mm",
+        "rotation": "180deg",
+        "rows": "2",
+        "cols": "2"
+    },
+    "source": {
+        "tolerance": "10mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.38mm",
+        "spacing": "0.64mm",
+        "offset": "-0.19mm",
+        "prolong": "0.38mm"
+    },
+    "post": {
+        "millradius": "1.25mm"
+    }
+}

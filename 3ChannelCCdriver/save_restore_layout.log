@@ -1,0 +1,7 @@
+03-06 13:00:38 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 172:Plugin executed on: 'win32'
+03-06 13:00:38 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 173:Plugin executed with python version: '3.9.14 (main, Dec 23 2022, 23:36:19) [MSC v.1934 64 bit (AMD64)]'
+03-06 13:00:38 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 174:KiCad build version: (7.0.0)
+03-06 13:00:38 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 175:Plugin version: 2.0.6
+
+03-06 13:00:38 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 176:Frame repr: <wx._core.Frame object at 0x0000019FA3BF7E50>
+03-06 13:00:38 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 194:Anchor footprint reference is 'J2'
