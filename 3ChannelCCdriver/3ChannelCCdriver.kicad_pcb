@@ -480,11 +480,6 @@
       (net 2 "+24V") (pintype "passive") (tstamp 514b796c-1dfc-413b-a43f-d57c9b4917a1))
     (pad "2" smd rect (at 5.55 0 180) (size 3.1 5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 28 "/36VBoost/BOOST_SW") (pintype "passive") (tstamp c2cb1658-c2c1-48c8-ad91-7701e72814d7))
-    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP1245A.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model ":KICAD7_3DMODEL_DIR:Inductor_SMD.3dshapes/L_Sunlord_MWSA1265S.step"
       (offset (xyz 0 0 0))
       (scale (xyz 0.9 0.9 1))
