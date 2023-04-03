@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (date "2023-04-02")
+    (rev "B01")
+  )
+
   (lib_symbols
     (symbol "Device:C_Polarized" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.635 2.54 0)
@@ -816,7 +821,7 @@
     (property "Footprint" "Inductor_SMD:L_Bourns_SRP1245A" (at 116.84 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 116.84 59.69 0)
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2003172239_YJYCOIN-YSPI1365-470M_C497913.pdf" (at 116.84 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "C497913" (at 116.84 59.69 90)
