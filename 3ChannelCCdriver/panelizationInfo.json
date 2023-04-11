@@ -1,8 +1,8 @@
 {
     "layout": {
         "alternation": "cols",
-        "hspace": "2.5mm",
-        "vspace": "2.5mm",
+        "hspace": "2mm",
+        "vspace": "2mm",
         "rotation": "180deg",
         "rows": "2",
         "cols": "2"
@@ -18,6 +18,6 @@
         "prolong": "0.38mm"
     },
     "post": {
-        "millradius": "1.25mm"
+        "millradius": "1mm"
     }
 }
