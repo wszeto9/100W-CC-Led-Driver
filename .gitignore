@@ -27,3 +27,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+3ChannelCCdriver/\#auto_saved_files\#
+3ChannelCCdriver/~3ChannelCCdriver.kicad_sch.lck
